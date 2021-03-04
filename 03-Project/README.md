@@ -20,3 +20,4 @@ Our goals for this analysis are the following:
 7. Popularity - This is a rating of how popular a song is. This is determined by metrics on the Spotify platform.
 8. Duration - This is the length of the song in seconds.
 
+Our presentation link can be found here: https://app.pitch.com/app/presentation/53500d3b-dd2b-409c-a16f-4db44389cbbc/dfffd296-70c2-40b7-9f82-06004bf8b104
