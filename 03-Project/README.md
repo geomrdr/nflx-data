@@ -1,6 +1,14 @@
 # Spotify Music Analysis #
 # Introduction 
-We are the Tune Squad. Our datasets for this project were obtained through kaggle.com
+We are the Tune Squad. 
+
+**Team Members:**
+- Pema Yangzom
+- Ralph Watson-Quartey
+- King Nsiah
+- Geo Mirador
+
+Our datasets for this project were obtained through kaggle.com
 They are Spotify datasets that contain a list of the most popular songs and their corresponding features from 2010 to 2019, and 2020. 
 
 # Goals 
